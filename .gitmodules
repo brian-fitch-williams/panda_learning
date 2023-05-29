@@ -1,0 +1,3 @@
+[submodule "src/franka_ros"]
+	path = src/franka_ros
+	url = git@github.com:brian-fitch-williams/franka_ros.git
