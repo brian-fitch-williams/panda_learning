@@ -1,3 +1,6 @@
 [submodule "src/franka_ros"]
 	path = src/franka_ros
 	url = git@github.com:brian-fitch-williams/franka_ros.git
+[submodule "src/repo_bazu"]
+	path = src/repo_bazu
+	url = git@github.com:brian-fitch-williams/ROS-Ultimate-guide-for-Custom-Robotic-Arms-and-Panda-7-DOF-.git
